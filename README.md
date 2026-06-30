@@ -1,2 +1,2 @@
 # Byte-Downloader
-Baixador de Vídeos e Thumbnails.
+Suite completa para editores, designers, uso pessoal e creators
